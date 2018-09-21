@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sources for Centrists</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Sources for Centrists</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Sep 2018 03:33:25 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti-Semitism</title>
+      <link>http://www.example.com/tags/anti-semitism/</link>
+      <pubDate>Fri, 21 Sep 2018 03:33:25 -0400</pubDate>
+      
+      <guid>http://www.example.com/tags/anti-semitism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Britain</title>
+      <link>http://www.example.com/tags/britain/</link>
+      <pubDate>Fri, 21 Sep 2018 03:33:25 -0400</pubDate>
+      
+      <guid>http://www.example.com/tags/britain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremy Corbyn</title>
+      <link>http://www.example.com/tags/jeremy-corbyn/</link>
+      <pubDate>Fri, 21 Sep 2018 03:33:25 -0400</pubDate>
+      
+      <guid>http://www.example.com/tags/jeremy-corbyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nation</title>
+      <link>http://www.example.com/tags/the-nation/</link>
+      <pubDate>Fri, 21 Sep 2018 03:33:25 -0400</pubDate>
+      
+      <guid>http://www.example.com/tags/the-nation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK Labour Party</title>
+      <link>http://www.example.com/tags/uk-labour-party/</link>
+      <pubDate>Fri, 21 Sep 2018 03:33:25 -0400</pubDate>
+      
+      <guid>http://www.example.com/tags/uk-labour-party/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
